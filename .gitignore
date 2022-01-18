@@ -1,1 +1,7 @@
+*.py
+!b.py
 d.txt
+/*.c
+/kotels
+?.java
+?.mp4
